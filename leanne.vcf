@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Tchea;Leanne;;;
+FN: Leanne Tchea 
+ORG:Piquant Ideas Pte Ltd;
+TITLE:Go-to-market / Strategy;
+EMAIL;type=INTERNET;type=WORK;type=pref:leanne@piquantideas.com
+TEL;type=WORK;type=VOICE:+65 9145 2020
+item1.ADR;type=WORK;type=pref:;;176 Orchard Road #05-05;;;238843;Singapore
+item1.X-ABADR:sg
+item2.URL;type=pref:piquantideas.com
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
